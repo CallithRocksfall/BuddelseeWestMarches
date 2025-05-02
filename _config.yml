@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Buddelsee West Marches
+description: Wiki zu meiner West Marches-Kampagne im Sandbox-Setting "die Buddelsee. Diese Seite befindet sich aktuell noch im Aufbau"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://CallithRocksfall.github.io/BuddelseeWestMarches
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Cairn SRD (englisch): https://cairnrpg.com/
+  Cairn SRD (deutsch): https://de.cairnrpg.com/ 
