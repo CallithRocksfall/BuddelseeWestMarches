@@ -9,3 +9,8 @@ favicon_ico: "/assets/favicon.png"
 
 aux_links:
   Cairn SRD: https://cairnrpg.com/
+
+callouts:
+  info:
+    color: yellow
+
