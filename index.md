@@ -24,6 +24,8 @@ Gründe für Expeditionen gibt es viele:
 - Der Gilde fehlt eine wichtige Ressource, die nur auf einer abgelegenen Insel zu finden
 - ...
 
+(Mehr Informationen über West Marches als Spielstil gibt es im [ursprünglichen Blogpost von Ben Robbins](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/))
+
 ## Klingt interessant, ich möchte mitmachen!
 Aktuell laufen die Vorbereitungen noch. Sobald es los geht findest du hier mehr Informationen
 
