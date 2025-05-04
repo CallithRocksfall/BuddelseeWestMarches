@@ -25,3 +25,12 @@ Neben Cairn dienten folgene Quellen als Basis bzw. als Inspiration:
 - Chaoszauber und Unterklassen der Dieb*in basierend auf [Maze Rats von Ben Milton](https://questingbeast.itch.io/maze-rats)
 - Die Regeln für Schiffe basieren auf [Lilliputian: Adventures on the Open Seas von Matthew Moris](https://manadawnttg.itch.io/lilliputian), angepasst an die üblicherweise in der Buddelsee vorzufindenden Schiffstypen
 - Das Stufen-System ist inspiriert von [Mausritter von Isaac Williams](https://losing-games.itch.io/mausritter)
+
+Buddelcairn is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
