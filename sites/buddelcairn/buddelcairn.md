@@ -19,6 +19,9 @@ Auf den Unterseiten findest du Informationen über die Charaktererstellung, die 
 {: .info}
 🚧👷‍♀️ Ausfüllbare PDFs des Charakterbogens und des Schiffbogens folgen
 
+[Charakterbogen](https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/670191912377e1ca7e018250bf9dd95fd7eccb0c/buddelcairn%20files/Buddelcairn%20Character%20Sheet.pdf)
+[Schiffsbogen] (https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/670191912377e1ca7e018250bf9dd95fd7eccb0c/buddelcairn%20files/Buddelcairn%20Ship%20Sheet.pdf)
+
 ## Quellen und Inspirationen
 Neben Cairn dienten folgene Quellen als Basis bzw. als Inspiration: 
 - Die Klassen von Buddelcairn basieren auf [https://cairnrpg.com/hacks/third-party/classic-classes/ ](https://cairnrpg.com/hacks/third-party/classic-classes/)
