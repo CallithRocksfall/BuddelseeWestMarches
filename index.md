@@ -6,7 +6,7 @@ nav_order: 0
 {: .info }
 🚧👷‍♀️ Dieses Wiki befindet sich aktuell noch im Aufbau
 
-Herzlich Willkommen im Wiku zur West Marches-Kampagne im Sandbox-Setting "die Buddelsee" die im Rollen- und Brettspielverein Thoule 1987 e.V. gespielt wird. 
+Herzlich Willkommen im Wiki zur West Marches-Kampagne im Sandbox-Setting "die Buddelsee" die im Rollen- und Brettspielverein Thoule 1987 e.V. gespielt wird. 
 
 ## Worum geht es?
 Die Buddelsee ist eine Paralleldimension, in die Schiffe und Seeleute verschiedener Epochen ungewollt durch Wurmlöcher, Tornados, oder andere Umstände hinein gesaut werden - und genau dieses Schicksaal ist auch dir und der Crew deines Schiffs wiederfahren. 

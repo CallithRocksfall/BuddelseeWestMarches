@@ -13,4 +13,6 @@ aux_links:
 callouts:
   info:
     color: yellow
+  insight:
+    color: blue
 

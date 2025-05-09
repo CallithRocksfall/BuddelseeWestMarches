@@ -68,25 +68,56 @@ Wenn du einem Gegner kritischen Schaden zufügst oder ihn tötest heilst du dich
 
 ### Kleriker*in
 ##### Fähigkeiten: 
+- **Wunden Heilen**: Einmal am Tag kannst du 1W6 Attributsschaden heilen
+
 ##### Ausrüstung: 
+- Rüstung 1W12+8
+- Helm/Schild 1W12+8
+- Heiliges Symbol
 
 #### Priester*in
+Du kannst Untote vertreiben. 1W6 einfache Untote die du sehen kannst legen eine WK-Probe ab. Misslingt diese Probe, fliehen 
 #### Druid*in
+Du kannst dich mit Tieren verständigen (sie verstehen dich, können aber dadurch	nicht mehr dir reden)		
 #### Heiler*in
+Du kannst Wunden Heilen 3 mal am Tag verwenden. Neben Attributsschaden kannst du damit auch Gift und Krankheiten heilen		
 
 ### Dieb*in
-##### Fähigkeiten: 
+
+##### Fähigkeiten:
+- **Hinterhalt**: Addiere ST auf deinen Angriff gegen eine Ahnungslose Kreatur oder Person		
+- **Sprachkenntnisse**: Du hast ein rudimentäres Verständnis für alle geschriebenen Sprachen und kannst Geheimschriften entziffern		
+- **Spezialgebiete**: Deine Spezialgebiete werden durch deine Klasse bestimmt. Du würfelst alle Proben die deine Spezialgebiete betreffen mit Vorteil		 
 ##### Ausrüstung: 
+- Zweite Entdeckerrüstung
+- Zweites Werkzeug
+- Zweite Waffe
+
 #### Schurk*in
+Deine Spezialgebiete sind Taschendiebstahl, Schlösser knacken, Basteln
 #### Assassine
+Deine Spezialgebiete sind Schleichen, Verstecken, Gift herstellen
 #### Waldläufer*in
+Deine Spezialgebiete sind Spuren Lesen, Nahrungssuchen, Überleben in der Wildnis
 #### Akrobat*in
+Deine Spezialgebiete sind  Klettern, Springen, Balancieren
 
 ### Magier*in
 ##### Fähigkeiten: 
+- **Arkanes Grimoire**: Du besitzt ein magisches Grimoire (sperriger Gegenstand), das einen zufälligen Zauberspruch	enthält. Du kannst Zauberbücher mit 4 Stun	den Zeit und einer bestandenen WK-Probe	in dein Grimoire übertragen. Dabei wird das	Zauberbuch zerstört		
+- **Nachteil in schwerer Rüstung**: Wenn du eine schwere Rüstung (Wert 2+) trägst erhältst du beim Zaubern zwei Zustände erschöpft.		
+
 ##### Ausrüstung: 
+- Arkanse Grimoire
+- Rüstung 1W6
+- Kein Helm/Schild
 
 #### Beschwörung
+Du bestitzt einen magischen Vertrauten, mit dem du telepatisch Kommunizieren kannst.´Stirbt dein Vertrauter kannst du mit einem Ritual einen neuen Beschwören (8 Stunden, erhalte den Zustand Ausgelaugt)		
 #### Nekromantie
-#### Hypnotisieren
-#### Chaosmagie5
+Du kannst mit Toten reden. Erhalte einen Zustand erschöpft.
+#### Verzauberung
+Verzauberung: Eine Person deiner Wahl, du du sehen kannst, legt eine WK-Probe ab. Misslingt diese ist die Person für 1 Stunde in einer magischen Trance. Erhalte einen Zustand erschöpft.		
+
+#### Chaosmagie
+Dein Grimoire enthält zusätzlichen zu deinen normalen Zaubern jeden Tag einen zusätzlichen [Chaoszauber](./spells.html#chaoszauber)
