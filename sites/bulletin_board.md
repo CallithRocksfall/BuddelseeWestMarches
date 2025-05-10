@@ -6,7 +6,7 @@ nav_order: 2
 Hier findet ihr das Schwarze Brett der Stadt Herbergshaven, sowie die Gerüchte und die an die Abenteurergilde heran getragen wurden. 
 
 ## Schwarzes Brett
-
+![Schwarzes Brett](../assets/Bulletin_Board.jpg)
 
 ### Texte
 
@@ -17,7 +17,7 @@ Hier findet ihr das Schwarze Brett der Stadt Herbergshaven, sowie die Gerüchte 
 * Koste die See, mit Hafenbräu! Das Original, von Hafenbräu! 
 * *Ein verschlüsselter Zettel, in roter Tinte geschrieben*
 * Zirkus Arkanis - Lasst euch Verzaubern! Karten im Austernbett-Casino
-* Der Würfel ruft! Könnt ihr in Hören? Norden
+* Der Würfel ruft! Könnt ihr in Hören? Norden!
 * HILFE DRINGENG GESUCHT: Die Seetanggrog-Brauerei stellt ein! 5 Silber/Tag + Getränke und Speisen!
 * Du kannst Nachts nicht schlafen? Wir auch nicht! Komm zur Stadtwache
 * Die Gilde der Sammler gibt bekannt: Das mutige Helden gesucht werden, um wichtige Fracht durch die gefährliche See zu begleiten und die Zukunft dieser Inseln zu schaffen. Bezahlung: 1500 Goldstücke 
@@ -27,3 +27,4 @@ Hier findet ihr das Schwarze Brett der Stadt Herbergshaven, sowie die Gerüchte 
 * Dass die Zyklop nicht von ihrer letzten Abenteuerfahrt zurückgekehrt ist. 
 * Dass die Kirche des Auftriebs nach metallenen Tafeln sucht und gute Summen dafür bezahlt
 * Dass sich unter der alten Baumschule ein Krake in einer Höhle eingenistet hat  
+* Dass das "Verzaubern" im Zirkus wohl wörtlich gemeint sein soll...
