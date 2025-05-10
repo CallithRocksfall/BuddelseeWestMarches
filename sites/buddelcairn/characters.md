@@ -7,6 +7,8 @@ nav_order: 1
 ## Charaktererstellung
 [Charakterbogen](https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/670191912377e1ca7e018250bf9dd95fd7eccb0c/buddelcairn%20files/Buddelcairn%20Character%20Sheet.pdf)
 
+[Charakterbogen Ausfüllbar](https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/main/buddelcairn%20files/Buddelcairn%20Character%20Sheet%20Form%20Fillable.pdf)
+
 Die Charaktererstellung findet in 6 Schritten statt. Die Seitenangaben auf dem Charakterbogen beziehen sich auf die englische Druckausgabe des Systems Cairn. Alle angegebenen Tabellen sind auch im SRD und in der Deutschen Ausgabe des Systems enthalten, dort aber an anderer Stelle. Auf dieser Seite werden alle benötigten Ressourcen sowohl auf Englisch als auch auf Deutsch verlinkt. 
 
 ### 1. Grundsätzliches

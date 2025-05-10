@@ -7,6 +7,8 @@ nav_order: 2
 ## Regeln für Schiffe und Seefahrt
 [Schiffsbogen](https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/670191912377e1ca7e018250bf9dd95fd7eccb0c/buddelcairn%20files/Buddelcairn%20Ship%20Sheet.pdf)
 
+[Schiffsbogen Ausfüllbar](https://github.com/CallithRocksfall/BuddelseeWestMarches/blob/main/buddelcairn%20files/Buddelcairn%20Ship%20Sheet%20Form%20Fillable.pdf)
+
 {: .insight }
 ℹ Die Regeln für Schiffe sind bewusst simpel gehalten. Sie sind nicht zur Abhandlung von großen Seeschlachten gedacht, sondern um Fragen zu beantworten wie "Was passiert, wenn das Schiff in einen Sturm gerät oder von einem Kraken angegriffen wird"
 
